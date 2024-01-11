@@ -62,6 +62,10 @@
     * 파이썬 알고리즘 인터뷰(박상길) 8장 연결 리스트
     * 파이썬 알고리즘 인터뷰(박상길) 10장 데크, 우선순위 큐
 
+- 문제풀이
+    - 데크: [백준 - 1021 회전하는 큐](https://www.acmicpc.net/problem/1021) /  [백준 - 11003 최솟값 찾기](https://www.acmicpc.net/problem/11003)
+    - 연결리스트: [백준 - 1406 에디터](https://www.acmicpc.net/problem/1406) /  [백준 - 5397 키로거](https://www.acmicpc.net/problem/5397)
+
 ### 03주차: 다이나믹 프로그래밍(Dynamic Programming)
 
 - 참고
