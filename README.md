@@ -71,7 +71,13 @@
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 08 다이나믹 프로그래밍
     * 파이썬 알고리즘 인터뷰(박상길) 23장 다이나믹 프로그래밍
+- 문제풀이
+    - DP: [백준 - 1932 정수 삼각형](https://www.acmicpc.net/problem/1932) /  [백준 - 9251 LCS](https://www.acmicpc.net/problem/9251)
 
+- 숙제
+    - 웨일: [백준 - 9251 LCS](https://www.acmicpc.net/problem/9251) / [백준 - 14501 퇴사](https://www.acmicpc.net/problem/14501) / [백준 - 15486 퇴사2](https://www.acmicpc.net/problem/15486)
+    - 솜: [백준 - 2차원 배열 문제 풀이집](https://www.acmicpc.net/step/2) 
+  
 ### 04주차: 트리(Tree)
 
 - 참고
