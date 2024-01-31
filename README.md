@@ -71,6 +71,7 @@
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 08 다이나믹 프로그래밍
     * 파이썬 알고리즘 인터뷰(박상길) 23장 다이나믹 프로그래밍
+
 - 문제풀이
     - DP: [백준 - 1932 정수 삼각형](https://www.acmicpc.net/problem/1932) /  [백준 - 9251 LCS](https://www.acmicpc.net/problem/9251)
 
@@ -82,6 +83,12 @@
 
 - 참고
     * 파이썬 알고리즘 인터뷰(박상길) 14장 트리
+
+- 문제풀이
+    - 트리: [백준 - 11725 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+
+- 숙제
+    - 트리: [백준 - 1167 트리의 지름](https://www.acmicpc.net/problem/1167)
 
 ### 05주차: 우선순위큐, 힙(Priority Queue, Heap)
 
