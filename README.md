@@ -118,8 +118,10 @@
     * 파이썬 알고리즘 인터뷰(박상길) 15장 힙
 
 - 문제풀이
-    - 힙: [백준 - 1927 최소힙](https://www.acmicpc.net/problem/1927)
-    - 힙: [백준 - 13975 파일 합치기 3](https://www.acmicpc.net/problem/13975)
+    - 힙: [백준 - 1781 컵라면](https://www.acmicpc.net/problem/1781)
+
+- 숙제
+    - 힙: [백준 - 1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)
 
 ### 08주차: 정렬(sorting)
 
