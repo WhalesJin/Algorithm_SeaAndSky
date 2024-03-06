@@ -129,6 +129,12 @@
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 06 정렬
     * 파이썬 알고리즘 인터뷰(박상길) 17장 정렬
 
+- 문제풀이
+    - 정렬: [백준 - 11652 카드](https://www.acmicpc.net/problem/11652)
+
+- 숙제
+    - 정렬: [백준 - 1432 시리얼 번호](https://www.acmicpc.net/problem/1432)
+
 ### 09주차: 이진탐색(binary Search)
 
 - 참고
