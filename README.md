@@ -141,6 +141,14 @@
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 07 이진 탐색
     * 파이썬 알고리즘 인터뷰(박상길) 18장 이진 검색
 
+- 문제풀이
+    - 이진탐색: [백준 - 1654 랜선 자르기](https://www.acmicpc.net/problem/1654)
+    - 이진탐색: [백준 - 14921 용액 합성하기](https://www.acmicpc.net/problem/14921)
+
+- 숙제
+    - 이진탐색: [백준 - 16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)
+    - 이진탐색: [백준 - 2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
+
 ### 10주차: 그래프(Graph)
 
 - 참고
