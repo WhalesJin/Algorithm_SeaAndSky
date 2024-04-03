@@ -149,29 +149,43 @@
     - 이진탐색: [백준 - 16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)
     - 이진탐색: [백준 - 2143 두 배열의 합](https://www.acmicpc.net/problem/2143)
 
-### 10주차: 그래프(Graph)
+### 10주차: 이진탐색(binary Search) 추가
+
+- 참고
+    * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 07 이진 탐색
+    * 파이썬 알고리즘 인터뷰(박상길) 18장 이진 검색
+
+- 문제풀이
+    - 네이버 코테 예제1 나누기
+    - 이진탐색: [백준 - 18870 좌표압축](https://www.acmicpc.net/problem/18870)
+
+- 숙제
+    - 그래프: [백준 - 11403 경로찾기](https://www.acmicpc.net/problem/11403)
+    - 그래프: [백준 - 6118 숨바꼭질](https://www.acmicpc.net/problem/6118)
+
+### 11주차: 그래프(Graph)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 10 그래프 이론
     * 파이썬 알고리즘 인터뷰(박상길) 12장 그래프
 
-### 11주차: DFS/BFS
+### 12주차: DFS/BFS
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 05 DFS/BFS
 
-### 12주차: 최단경로(Shortest Path)
+### 13주차: 최단경로(Shortest Path)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 09 최단 경로
     * 파이썬 알고리즘 인터뷰(박상길) 13장 최단 경로 문제
 
-### 13주차: 구현(implementation)
+### 14주차: 구현(implementation)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 04 구현
 
-### 14주차: 탐욕법(greedy)
+### 15주차: 탐욕법(greedy)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 03 그리디
