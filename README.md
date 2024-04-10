@@ -169,23 +169,38 @@
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 10 그래프 이론
     * 파이썬 알고리즘 인터뷰(박상길) 12장 그래프
 
+- 문제풀이
+    - 그래프: [백준 - 5567 결혼식](https://www.acmicpc.net/problem/5567)
+    - 그래프: [백준 - 2606 바이러스](https://www.acmicpc.net/problem/2606)
+ 
+- 숙제
+    - 그래프: [백준 - 6118 숨바꼭질](https://www.acmicpc.net/problem/6118)
+    - DFS/BFS: [백준 - 2178 미로탐색](https://www.acmicpc.net/problem/2178)
+    - DFS/BFS: [백준 - 2583 영역구하기](https://www.acmicpc.net/problem/2583)
+
 ### 12주차: DFS/BFS
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 05 DFS/BFS
 
-### 13주차: 최단경로(Shortest Path)
+### 13주차: 그래프(Graph) 추가
+
+- 참고
+    * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 10 그래프 이론
+    * 파이썬 알고리즘 인터뷰(박상길) 12장 그래프
+
+### 14주차: 최단경로(Shortest Path)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 09 최단 경로
     * 파이썬 알고리즘 인터뷰(박상길) 13장 최단 경로 문제
 
-### 14주차: 구현(implementation)
+### 15주차: 구현(implementation)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 04 구현
 
-### 15주차: 탐욕법(greedy)
+### 16주차: 탐욕법(greedy)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 03 그리디
