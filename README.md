@@ -198,6 +198,13 @@
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 10 그래프 이론
     * 파이썬 알고리즘 인터뷰(박상길) 12장 그래프
 
+- 문제풀이
+    - 그래프: [백준 - 1043 거짓말](https://www.acmicpc.net/problem/1043)
+ 
+- 숙제
+    - 그래프: [백준 - 2660 회장뽑기](https://www.acmicpc.net/problem/2660)
+    - 최단경로: [백준 - 1916 최소비용 구하기](https://www.acmicpc.net/problem/1916)
+
 ### 14주차: 최단경로(Shortest Path)
 
 - 참고
