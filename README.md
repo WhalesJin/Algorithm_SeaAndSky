@@ -223,6 +223,13 @@
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 09 최단 경로
     * 파이썬 알고리즘 인터뷰(박상길) 13장 최단 경로 문제
 
+- 문제풀이
+    - 최단경로: [백준 - 4485 녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+    - 최단경로: [백준 - 14497 주난의 난](https://www.acmicpc.net/problem/14497)
+ 
+- 숙제
+    - 구현: [백준 - 1138 한 줄로 서기](https://www.acmicpc.net/problem/1138)
+
 ### 16주차: 구현(implementation)
 
 - 참고
