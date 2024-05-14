@@ -235,7 +235,18 @@
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 04 구현
 
-### 17주차: 탐욕법(greedy)
+- 문제풀이
+    - 구현: [백준 - 18111 마인크래프트](https://www.acmicpc.net/problem/18111)
+ 
+- 숙제
+    - 구현: [백준 - 14499 주사위 굴리기](https://www.acmicpc.net/problem/14499)
+
+### 17주차: 구현(implementation)
+
+- 참고
+    * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 04 구현
+
+### 18주차: 탐욕법(greedy)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 03 그리디
