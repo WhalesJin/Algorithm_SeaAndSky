@@ -246,7 +246,18 @@
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 04 구현
 
-### 18주차: 탐욕법(greedy)
+- 문제풀이
+    - 구현: [백준 - 11559 Puyo Puyo](https://www.acmicpc.net/problem/11559)
+ 
+- 숙제
+    - 구현: [백준 - 19640 화장실의 규칙](https://www.acmicpc.net/problem/19640)
+
+### 18주차: 구현(implementation)
+
+- 참고
+    * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 04 구현
+
+### 19주차: 탐욕법(greedy)
 
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 03 그리디
