@@ -257,6 +257,14 @@
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 04 구현
 
+- 문제풀이
+    - 구현: [백준 - 1817 짐 챙기는 숌](https://www.acmicpc.net/problem/1817)
+    - 구현: [백준 - 2607 비슷한 단어](https://www.acmicpc.net/problem/2607)
+ 
+- 숙제
+    - 그리디: [백준 - 2847 게임을 만든 동준이](https://www.acmicpc.net/problem/2847)
+    - 그리디: [백준 - 11501 주식](https://www.acmicpc.net/problem/11501)
+      
 ### 19주차: 탐욕법(greedy)
 
 - 참고
