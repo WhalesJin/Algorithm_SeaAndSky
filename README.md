@@ -270,3 +270,10 @@
 - 참고
     * 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈) CHAPTER 03 그리디
     * 파이썬 알고리즘 인터뷰(박상길) 21장 그리디 알고리즘
+
+- 문제풀이
+    - 그리디: [백준 - 2812 크게 만들기](https://www.acmicpc.net/problem/2812)
+    - 그리디: [백준 - 1744 수 묶기](https://www.acmicpc.net/problem/1744)
+ 
+<br>
+# Algorithm_SeaAndSky - THE END
